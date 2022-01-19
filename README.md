@@ -10,7 +10,7 @@ This is a simple RSA implementation that is used to encrypt and decrypt an AES k
 
 How To Use This
 ---------------
-1. Install the necessary requirements with `pip install -r requirements`
+1. Install the necessary requirements with `pip install -r requirements.txt`
 2. Give test.sh permission to execute with `chmod +x test.sh`
 3. Run (and/or modify) test.sh with `./test.sh`
 
